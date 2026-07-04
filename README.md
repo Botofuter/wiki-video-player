@@ -13,7 +13,9 @@
 当前视频
 * pv_first_chapter.mp4
 
-（后续新增视频可直接在此追加，便于统一管理）
+后续新增视频可直接在此追加，便于统一管理
+
+官方已公布视频请使用Bilibili引用模板
 
 ##  免责声明与版权说明 (Disclaimer & Copyright)
 
